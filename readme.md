@@ -1,0 +1,1 @@
+# Quick examples in Python for intermediate programmers
